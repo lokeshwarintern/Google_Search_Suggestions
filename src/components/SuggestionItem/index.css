@@ -1,0 +1,21 @@
+.list-ele {
+  display: flex;
+  font-size: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn-ele {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.arrow-btn {
+  height: 20px;
+  width: 20px;
+}
+
+.list-item {
+  color: #64748b;
+  font-family: Roboto;
+}
